@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="91405966-8174-4ab2-a7d1-35f0c5888180" name="https://github.com/MrGuo2/vsCode.git" url="https://github.com/MrGuo2/vsCode.git">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>
